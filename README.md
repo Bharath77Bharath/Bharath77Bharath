@@ -2,12 +2,12 @@
 
 Student at Sri Sairam Engineering College pursuing Information Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🌱 I'm currently learning DSA
+- 🌱 I'm currently learning Flutter and MERN
 - 👀 Ambivert and a fast learner
 - 🌐 Reach me through:
-<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharath-lenin-3b53a9257/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white /">](https://mail.google.com/mail/?view=cm&fs=1&to=it.bharathlenin@gmail.com)
+<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharath-lenin-3b53a9257/)
 - 🏏 Cricket fanboy
-- 🍿 Movie lover
+- 🏋️ Gym Freak
 
 
 ### I code in
