@@ -1,8 +1,9 @@
 ## Hi there ✌️ This is Bharath
 
-Student at Sri Sairam Engineering College pursuing Information Technology
+Graduate at Sri Sairam Engineering College
+B Tech Information Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🌱 I'm currently learning Flutter and MERN
+- 🌱 AWS Cloud Practioner
 - 👀 Ambivert and a fast learner
 - 🌐 Reach me through:
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharath-lenin-3b53a9257/)
