@@ -76,8 +76,13 @@
 
 ## 📊 GitHub Stats
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharath77Bharath&theme=tokyonight)
 
 ---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+<img height="180em" src="https://leetcard.jacoblin.cool/Bharath77Bharath?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
