@@ -9,12 +9,13 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning AWS Cloud, Linux, Networking & DevOps
-- 💻 Exploring MERN Stack Development and Flutter App Development
-- ☕ Interested in Java, Backend Systems & Scalable Architectures
+- ☁️ Currently learning AWS Cloud, Linux, Docker & DevOps fundamentals
+- ☕ Building backend applications using Java & Spring Boot
 - 📚 Practicing Data Structures & Algorithms regularly
-- 🔧 Working hands-on with EC2, IAM, VPC, SSH, nginx & APIs
-- 🎯 Goal: Become a skilled Cloud/DevOps & Software Engineer
+- 🔧 Working with EC2, IAM, VPC, SSH, nginx, APIs & Firebase
+- 🚀 Building real-world projects and deploying them to the cloud
+- 🎯 Aspiring Cloud & DevOps Engineer with strong Backend Development skills
+- 💡 Interested in System Design, Scalable Architectures & Automation
 - 👀 Ambivert and a fast learner
 - 🏋️ Gym Freak
 - 🏏 Cricket fanboy
