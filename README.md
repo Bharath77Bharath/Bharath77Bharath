@@ -1,89 +1,147 @@
-## Hi there ✌️ This is Bharath
+<div align="center">
 
-🎓 B.Tech Information Technology Graduate at Sri Sairam Engineering College  
-☁️ Aspiring Cloud & DevOps Engineer | Software Developer  
+# BHARATH L
+### Software Engineer
+#### Java • Spring Boot • AWS • Docker
+##### Building Cloud Native Systems
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
----
-
-## 🚀 About Me
-
-- ☁️ Currently learning AWS Cloud, Linux, Docker & DevOps fundamentals
-- ☕ Building backend applications using Java & Spring Boot
-- 📚 Practicing Data Structures & Algorithms regularly
-- 🔧 Working with EC2, IAM, VPC, SSH, nginx, APIs & Firebase
-- 🚀 Building real-world projects and deploying them to the cloud
-- 🎯 Aspiring Cloud & DevOps Engineer with strong Backend Development skills
-- 💡 Interested in System Design, Scalable Architectures & Automation
-- 👀 Ambivert and a fast learner
-- 🏋️ Gym Freak
-- 🏏 Cricket fanboy
-
----
-
-## 🌐 Reach me through:
-
-<a href="https://www.linkedin.com/in/bharath-lenin-3b53a9257/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
-
-## 💻 I Code In
-
-<p align="left">
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/python.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=java&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0A101F?style=for-the-badge&logo=springboot&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/AWS-0A101F?style=for-the-badge&logo=amazonaws&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=22D3EE" />
 </p>
+
+---
+
+## 👋 About Me
+
+I'm Bharath, a Java backend and cloud-focused engineer who enjoys building scalable, production-style systems with Spring Boot, AWS, Docker, PostgreSQL, and CI/CD.
+
+- ☁️ Cloud Infrastructure Intern at Precision Infomatic
+- 🔥 Building cloud-native backend systems and automation workflows
+- 🧠 Focused on Java, Spring Boot, REST APIs, authentication, and scalable architecture
+- 🐳 Working with Docker, Terraform, GitHub Actions, Linux, and AWS services
+- 📚 Practicing DSA and system design regularly
+- 🚀 Exploring AI-assisted development and LLM applications
+
+---
+
+## ⚡ Tech Stack
+
+**Languages:** Java, Python, SQL  
+**Frontend:** React, HTML, CSS, Tailwind CSS  
+**Backend / DB:** Spring Boot, JPA/Hibernate, REST APIs, Spring Security, Spring AI, PostgreSQL, Firebase NoSQL  
+**Cloud & DevOps:** AWS (IAM, EC2, EBS, Security Groups, Elastic IP), Docker, Linux, CI/CD, Terraform, GitHub Actions  
+**Tools:** Git, GitHub, Maven, Postman, Swagger-UI, n8n
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-<p align="left">
-<img height="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-<img height="50" src="https://img.icons8.com/color/48/linux--v1.png"/>
-<img height="50" src="https://img.icons8.com/color/48/bash.png"/>
-</p>
+- AWS IAM, EC2, VPC, S3, RDS, CloudWatch, Route 53, ALB, ASG, CloudFront, Lambda, CloudTrail
+- Dockerized application deployments
+- GitHub Actions pipelines
+- Terraform infrastructure workflows
+- Linux and networking fundamentals
 
 ---
 
-## 🛠️ IDEs & Tools I Use
+## 🏗 Featured Projects
 
-<p align="left">
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
-<img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="50" src="https://img.icons8.com/fluency/48/canva-app.png"/>
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+### CommerceCore Cloud Platform
+Cloud-native ecommerce backend built with Java 21, Spring Boot, JPA/Hibernate, PostgreSQL, Docker Compose, and AWS EC2.
 
----
+- JWT authentication
+- Product, review, image, and order management
+- CI/CD with GitHub Actions
+- Docker deployment with persistent storage
 
-## 📌 Projects & Interests
+### MaxxGym
+Gym management web app built with React, Firebase Auth, and Firestore.
 
-- 🌿 Smart Hydroponics System
-- 🏥 AR Clinic Web Project
-- ☁️ AWS & DevOps Hands-on Labs
-- 📱 Future Mobile App Projects using Flutter
+- Role-based trainer/member access
+- Trainer dashboard and mobile-first client portal
+- Replaced paper workout cards with a digital workflow
 
----
+### HydroTechGrow
+Smart hydroponics system with ESP32, Blynk, Python image processing, and IoT sensors.
 
-## 📊 GitHub Stats
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharath77Bharath&theme=tokyonight)
+- Real-time monitoring of temperature, humidity, and pH
+- Automated plant disease detection
+- IEEE publication at ICCCT'25
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 Achievements
+
+- Winner — Sairam SDG Solveathon 3.0
+- Runner-Up — Sairam SDG Innovathon 3.0
+- Best Outgoing Student of the Year 2021–22
+- Publication in ICCCT'25, IEEE International Conference
+- 170+ LeetCode problems solved
+- 70+ GeeksforGeeks problems solved
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://leetcard.jacoblin.cool/Bharath77Bharath?theme=dark&font=Nunito&ext=heatmap"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bharath77Bharath&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath77Bharath&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath77Bharath&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharath77Bharath&theme=darkhub&no-frame=true&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath77Bharath&bg_color=0A101F&color=22D3EE&line=10B981&point=22D3EE&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharath77Bharath/Bharath77Bharath/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bharath77Bharath/Bharath77Bharath/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Bharath77Bharath/Bharath77Bharath/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+  <img height="180em" src="https://leetcard.jacoblin.cool/Bharath77Bharath?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharath-lenin-3b53a9257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:it.bharathlenin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" />
+  </a>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bharath77Bharath&style=for-the-badge&color=22D3EE" />
 </p>
