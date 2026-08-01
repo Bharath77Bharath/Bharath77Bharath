@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharath77Bharath/Bharath77Bharath/main/banner.png" alt="Bharath L banner" />
+</p>
+
 <div align="center">
 
 # BHARATH L
