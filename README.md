@@ -108,7 +108,7 @@ Smart hydroponics system with ESP32, Blynk, Python image processing, and IoT sen
   <a href="https://leetcode.com/u/Bharath77Bharath/">
     <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=22D3EE" />
   </a>
-  <a href="https://geeksforgeeks.org/profile/itbharatqzzr">
+  <a href="https://www.geeksforgeeks.org/profile/itbharatqzzr">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0A101F?style=for-the-badge&logo=geeksforgeeks&logoColor=10B981" />
   </a>
 </p>
