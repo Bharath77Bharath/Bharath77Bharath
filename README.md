@@ -89,16 +89,7 @@ Smart hydroponics system with ESP32, Blynk, Python image processing, and IoT sen
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bharath77Bharath&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath77Bharath&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath77Bharath&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharath77Bharath&theme=darkhub&no-frame=true&margin-w=8" />
+  <img src="https://github-readme-trophy.vercel.app/?username=Bharath77Bharath&theme=darkhub&no-frame=true&margin-w=8" />
 </p>
 
 <p align="center">
@@ -119,7 +110,7 @@ Smart hydroponics system with ESP32, Blynk, Python image processing, and IoT sen
 
 ---
 
-## 🧠 LeetCode
+## 🧠 LeetCode & GeeksforGeeks
 
 <p align="center">
   <img height="180em" src="https://leetcard.jacoblin.cool/Bharath77Bharath?theme=dark&font=Nunito&ext=heatmap" />
@@ -135,6 +126,12 @@ Smart hydroponics system with ESP32, Blynk, Python image processing, and IoT sen
   </a>
   <a href="mailto:it.bharathlenin@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" />
+  </a>
+  <a href="https://leetcode.com/u/Bharath77Bharath/">
+    <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=22D3EE" />
+  </a>
+  <a href="https://geeksforgeeks.org/profile/itbharatqzzr">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0A101F?style=for-the-badge&logo=geeksforgeeks&logoColor=10B981" />
   </a>
 </p>
 
